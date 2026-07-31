@@ -576,6 +576,7 @@ Needless to say, most websites suffer from various types of bugs which may event
 
 - [js-vuln-db](https://github.com/tunz/js-vuln-db) — Collection of JavaScript engine CVEs with PoCs.
 - [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) — Curated list of CVE PoCs.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform for web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP) — Collection of vulnerability PoCs/exploits.
 - [uxss-db](https://github.com/Metnew/uxss-db) — Collection of UXSS CVEs with PoCs.
 - [SPLOITUS](https://sploitus.com/) — Exploits & tools search engine.
